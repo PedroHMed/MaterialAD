@@ -1,2 +1,2 @@
 # MaterialAD
-Material utilizado nas aulas de AD
+Material da aula de AD
